@@ -1,0 +1,19 @@
+.solution-steps {
+    padding: 60px 20px;
+    background: #fff;
+    text-align: center;
+}
+
+.solution-steps h2 {
+    color: #0d6efd;
+    margin-bottom: 20px;
+}
+
+.solution-steps ol {
+    list-style: decimal inside;
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    color: #333;
+    line-height: 1.8;
+}

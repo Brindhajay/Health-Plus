@@ -1,0 +1,16 @@
+body,
+html,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+section {
+  padding: 60px 20px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}

@@ -1,0 +1,13 @@
+.info {
+    width: 100%;
+    padding: 60px 20px;
+    background: #fff;
+}
+
+.info-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
