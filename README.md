@@ -1,12 +1,23 @@
-# React + Vite
+# Health Plus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Health Plus is a modern healthcare web application where users can explore services, book appointments with doctors, and get reliable healthcare information.
 
-Currently, two official plugins are available:
+## Live Demo
+Check out the live site here: [Health Plus Live](https://health-plus-site.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Responsive hero section with call-to-action.
+- Services overview with easy navigation.
+- Doctor profiles and patient reviews.
+- Book appointments easily with a dedicated form page.
+- Newsletter subscription for health updates.
+- Legal documents section with terms and privacy policy.
+- Fully deployed with Vercel for a live demo.
 
-## Expanding the ESLint configuration
+## Technologies Used
+- **Frontend:** React, CSS
+- **Routing:** React Router DOM
+- **Hosting:** Vercel
+- **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Project Structure
