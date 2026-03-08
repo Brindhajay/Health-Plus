@@ -37,32 +37,31 @@ my-health-plus/
 ## Installation & Setup
 Follow these steps to run the project locally:
 
-# Clone the repository
+## Clone the repository
 git clone https://github.com/Brindhajay/Health-Plus.git
 
-# Navigate into the project directory
+## Navigate into the project directory
 cd my-health-plus
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Run the development server
+## Run the development server
 npm start
 
-# Deployment
+## Deployment
 This project is deployed on Vercel.
 Every time changes are pushed to the main branch, Vercel automatically redeploys the site.
 
-# Future Enhancements
+## Future Enhancements
 - Add authentication (login/signup).
-
-# ⭐Author
-***Brindha Ajay***
-
 - Enable real-time appointment booking.
 - Integrate a backend for storing user data.
 - Implement payment gateway for consultations.
 - Add multi-language support.
 
-# License
+## License
 This project is licensed under the MIT License.
+
+## ⭐Author
+***Brindha Ajay***
