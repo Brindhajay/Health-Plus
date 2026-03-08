@@ -21,17 +21,17 @@ Check out the live site here: [Health Plus Live](https://health-plus-site.vercel
 - **Version Control:** Git & GitHub
 
 ## Project Structure
-my-health-plus/
-│── public/ # Static assets (favicon, images, etc.)
-│── src/ # Main source code
-│ ├── assets/ # Custom images, icons
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Application pages (Home, Services, Doctors, etc.)
-│ ├── App.js # Root component with routes
-│ ├── index.js # React entry point
-│ └── styles/ # CSS files
-│── package.json # Project metadata & dependencies
-│── README.md # Project documentation
+my-health-plus/  
+│── public/ # Static assets (favicon, images, etc.)  
+│── src/ # Main source code  
+│ ├── assets/ # Custom images, icons  
+│ ├── components/ # Reusable UI components  
+│ ├── pages/ # Application pages (Home, Services, Doctors, etc.)  
+│ ├── App.js # Root component with routes  
+│ ├── index.js # React entry point  
+│ └── styles/ # CSS files  
+│── package.json # Project metadata & dependencies  
+│── README.md # Project documentation  
 
 
 ## Installation & Setup
@@ -55,6 +55,10 @@ Every time changes are pushed to the main branch, Vercel automatically redeploys
 
 # Future Enhancements
 - Add authentication (login/signup).
+
+# ⭐Author
+***Brindha Ajay***
+
 - Enable real-time appointment booking.
 - Integrate a backend for storing user data.
 - Implement payment gateway for consultations.
